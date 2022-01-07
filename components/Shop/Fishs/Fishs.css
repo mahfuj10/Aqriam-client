@@ -1,0 +1,7 @@
+@media only screen and (max-width: 1200px) {
+.fish-container{
+    margin-top: 0px !important;
+    margin-left: 15% !important;
+    margin-right: auto !important;
+}    
+}
